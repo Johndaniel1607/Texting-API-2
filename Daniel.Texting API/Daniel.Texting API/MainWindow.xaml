@@ -1,0 +1,28 @@
+﻿<Window x:Class="Daniel.Texting_API.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Daniel.Texting_API"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblsendsms" Content="Send your SMS!" HorizontalAlignment="Left" Height="56" Margin="57,10,0,0" VerticalAlignment="Top" Width="206" FontSize="24"/>
+        <Label x:Name="lblphonenumber" Content="Phone number" HorizontalAlignment="Left" Height="32" Margin="41,92,0,0" VerticalAlignment="Top" Width="142"/>
+        <Label x:Name="lblmessage" Content="Message" HorizontalAlignment="Left" Height="32" Margin="41,141,0,0" VerticalAlignment="Top" Width="142"/>
+        <TextBox x:Name="txtphonenumber" HorizontalAlignment="Left" Height="48" Margin="215,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="358" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.095"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <TextBox x:Name="txtmessage" HorizontalAlignment="Left" Height="110" Margin="213,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="361" TextChanged="txtmessage_TextChanged"/>
+        <TextBlock x:Name="CharCount" HorizontalAlignment="Left" Height="16" Margin="213,256,0,0" TextWrapping="Wrap" Text="0/100" VerticalAlignment="Top" Width="50"/>
+        <Button x:Name="btnsend" Content="Send" HorizontalAlignment="Left" Height="43" Margin="591,286,0,0" VerticalAlignment="Top" Width="157" Click="btnsend_Click"/>
+
+    </Grid>
+</Window>

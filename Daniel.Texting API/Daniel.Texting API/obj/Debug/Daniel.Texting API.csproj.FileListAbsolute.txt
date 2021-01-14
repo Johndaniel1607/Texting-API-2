@@ -1,0 +1,15 @@
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API_MarkupCompile.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API_MarkupCompile.lref
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\bin\Debug\Daniel.Texting API.exe.config
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\bin\Debug\Daniel.Texting API.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\bin\Debug\Daniel.Texting API.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API.g.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting_API.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project11\Daniel.Texting API\Daniel.Texting API\Daniel.Texting API\obj\Debug\Daniel.Texting API.pdb
